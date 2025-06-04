@@ -1,4 +1,5 @@
 # music_player
+
 A GUI application to manage music. Play songs and manage playlists. Tested on ubuntu 24.04.
 The program uses the GUI library GTK4 (https://docs.gtk.org/gtk4/) which includes a widget for playing audio files.
 To run the music player you should have your music files already in ~/Music ready for the player to play and manage.
